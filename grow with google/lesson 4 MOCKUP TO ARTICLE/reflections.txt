@@ -1,0 +1,11 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+First skill that I learned is how to write html codes in organize. It would be an important key for me to do in the same way that professional coders do. Also  I learned new tags like <strike> and <sup> that I didn't know. Also I learned I must search when I want to use new tag or I need new feature that I don't know about it. It is easy when you consider it as a game and hobby;) I prefer to enjoy of being a developer. With this useful course nothing is difficult. All of the tasks are easy and fun. I solved my problem by dividing them and then conqure of them. It is easy way to finish even a big problem or project.
+Thanks
